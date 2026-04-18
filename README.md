@@ -2,6 +2,9 @@
 
 #### Simple Todo application built with React and Bootstrap.
 
+## Live View
+https://todo-list-react-panddera.netlify.app/
+
 ## Features
 * Add tasks
 * Mark tasks as completed
